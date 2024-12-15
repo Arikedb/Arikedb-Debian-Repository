@@ -4,7 +4,7 @@ Architecture: amd64
 Maintainer: Alejandro Alfonso <alejandroalfonso1994@gmail.com>
 Installed-Size: 9284
 Depends: libc6 (>= 2.38), libgcc-s1 (>= 4.2)
-Filename: arikedb/pool/main/arikedb_1.1.3_amd64.deb
+Filename: ./arikedb_1.1.3_amd64.deb
 Size: 2590752
 MD5sum: 6c65d315d6d5bd43170888f89b3d8b23
 SHA1: 613ab3c71bf684161f3343cefa71a512abe4f4b2
