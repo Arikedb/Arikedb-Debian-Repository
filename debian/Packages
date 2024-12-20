@@ -1,13 +1,13 @@
 Package: arikedb
-Version: 1.1.4
+Version: 1.1.5
 Architecture: amd64
 Maintainer: Alejandro Alfonso <alejandroalfonso1994@gmail.com>
-Installed-Size: 9344
-Filename: ./debian/arikedb_1.1.4_amd64.deb
-Size: 2655250
-MD5sum: 02a92217316efa657af37ee68ffc92de
-SHA1: bfb6a8398740eb236bb0af3b328ebc3b0e93b88e
-SHA256: 47edc6b5597f845c47eb1726012dcf650d53ffcf9c91849d89873c2f97c9707d
+Installed-Size: 9348
+Filename: ./debian/arikedb_1.1.5_amd64.deb
+Size: 2655122
+MD5sum: ca3db967a2d05b3cef1a48a00d984b26
+SHA1: 68833f17046e069b3372e15c2a5f191e1205587d
+SHA256: a9d0e8e2121f90fef2a56efa28417b2cc34fe5f1e50194e0416a5d5fdc32ad96
 Section: misc
 Priority: optional
 Homepage: https://arikedb.com
@@ -18,15 +18,15 @@ Description: ArikeDB is a real-time database intended to be simple of use and fa
   but we don't recommend using it in a production environment yet until the first official version gets released.
 
 Package: arikedb
-Version: 1.1.4
+Version: 1.1.5
 Architecture: arm64
 Maintainer: Alejandro Alfonso <alejandroalfonso1994@gmail.com>
-Installed-Size: 8032
-Filename: ./debian/arikedb_1.1.4_arm64.deb
-Size: 2396548
-MD5sum: a0d83f575bac1a4634212a1044808fdf
-SHA1: a5b4579aa1b238037be579321d5349c0f08b5d29
-SHA256: f543449b1329161c44616333c0530d4063ea4e1747dc2f06fa3c5f8451131ed0
+Installed-Size: 8040
+Filename: ./debian/arikedb_1.1.5_arm64.deb
+Size: 2397748
+MD5sum: 9acbb4bfc561a09abec0ac56b524546a
+SHA1: bc64dd941a368e08a31ebe671b26ba558d6372a1
+SHA256: 325affc3ea3ffffda0ede55ad22ce6a177038b10dca1b8f4e16828cddbed4403
 Section: misc
 Priority: optional
 Homepage: https://arikedb.com
