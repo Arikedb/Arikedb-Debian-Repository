@@ -20,6 +20,8 @@ gzip -k -f debian/dists/${DISTRIBUTION}/${COMPONENT}/binary-arm64/Packages
 apt-ftparchive -c apt-ftparchive.conf release debian/dists/${DISTRIBUTION} > debian/dists/${DISTRIBUTION}/Release
 
 # Generate Release.gpg and InRelease
+rm -f debian/dists/${DISTRIBUTION}/Release.gpg
+rm -f debian/dists/${DISTRIBUTION}/InRelease
 gpg --default-key "${EMAIL}" -abs -o debian/dists/${DISTRIBUTION}/Release.gpg debian/dists/${DISTRIBUTION}/Release
 gpg --default-key "${EMAIL}" --clearsign -o debian/dists/${DISTRIBUTION}/InRelease debian/dists/${DISTRIBUTION}/Release
 
