@@ -17,7 +17,7 @@ dpkg-scanpackages --arch arm64 debian/pool/${COMPONENT} > debian/dists/${DISTRIB
 gzip -k -f debian/dists/${DISTRIBUTION}/${COMPONENT}/binary-arm64/Packages
 
 # Generate Release file
-apt-ftparchive release debian/dists/${DISTRIBUTION} > debian/dists/${DISTRIBUTION}/Release
+apt-ftparchive -c apt-ftparchive.conf release debian/dists/${DISTRIBUTION} > debian/dists/${DISTRIBUTION}/Release
 
 # Generate Release.gpg and InRelease
 gpg --default-key "${EMAIL}" -abs -o debian/dists/${DISTRIBUTION}/Release.gpg debian/dists/${DISTRIBUTION}/Release

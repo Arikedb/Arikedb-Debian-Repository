@@ -1,0 +1,36 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 21 Dec 2024 05:13:03 +0000
+Description: Arikedb Debian Repository for Debian packages.
+Label: Arikedb Debian Repository
+Origin: Arikedb
+Suite: stable
+MD5Sum:
+ ca7ab6b4f0a6367f70218c60688850b3              222 Release
+ ee6a80b4e299cf05501c8a6dd9ead711             2256 stable/Release
+ 50f20cb446c96d11fb7e1e49f798a234              922 stable/main/binary-amd64/Packages
+ b514c8c83c2d76e99c303deb59f0b3c0              605 stable/main/binary-amd64/Packages.gz
+ f9b3a0250e279f1ec3da5ce72b20e0c2              922 stable/main/binary-arm64/Packages
+ 9171f9731c6ad2c0430b1e26fc0d669a              602 stable/main/binary-arm64/Packages.gz
+SHA1:
+ 33e67e9c65df43f064334a4a117782a26d0941b0              222 Release
+ d7c35dfe689c3ce04940cf85cca56fa64a42e3ca             2256 stable/Release
+ ec4e55622f4860359ab096708f3fd6793e5428a0              922 stable/main/binary-amd64/Packages
+ 9430f08f5139d47a6c00ce4f2fc13a07fe206bde              605 stable/main/binary-amd64/Packages.gz
+ ef740d0cc64d7bf4571b58c4c2bed155ca60ed97              922 stable/main/binary-arm64/Packages
+ 252a221d5f134ef2f69075b0218af74c4f8aee9b              602 stable/main/binary-arm64/Packages.gz
+SHA256:
+ 87945ccaed0d4dd7446222e5f1ff727a18395cb297e8882fb197ce8244532414              222 Release
+ cf3b4dfda56c2ece764e4a04b9a9e065121a26de1e09c9ab76daf51ae7cda750             2256 stable/Release
+ ecd3ffc6436ba51145d73c3ff13c9a57e3d7035b1e2250715ed0cd06361350de              922 stable/main/binary-amd64/Packages
+ 4ca6a41905f1550d0434e2d1be89eee5a1f4f4644dd1fde16355f1d7ba410d0e              605 stable/main/binary-amd64/Packages.gz
+ 153e5386439f5768ee3a8fb293807feebaf659ab21b8f479fed5e4917ae5fa0b              922 stable/main/binary-arm64/Packages
+ 83b350193d7883531a873f5f28aba85e74960287f3ad089874602208e42603b5              602 stable/main/binary-arm64/Packages.gz
+SHA512:
+ 290823e76421c0e7df4e189cfb4c734ba11bf8e4b6bdb47a52282d8d754c1c4c23f12da7005554356857cb6e7f1f731545d05490f7b4b2eb88e2fdc74b8a0cb8              222 Release
+ d0fc0d68656d6a74524f93e869aa868fb86e9d0200e55dc01f3cb6a45c4cdb3ed5c35823cef3b70737863fdb105cb620c0b2aad2880d45091fa5cde7575dc93e             2256 stable/Release
+ 546b9f6c1f732d28bf22f7f30324bdb725d90c919f47b189225e1b6986afc60626d235287c2cd80cb3e03a80e05927563c13473fdcaf14581bab70fa182ec3c1              922 stable/main/binary-amd64/Packages
+ 4f0ab50412cfa540566d4323b50d0ba00369b9eb4d97e3b5760b4745d917d3a4650a879eb28f92215c5532be2af4f33fc712a3794b5a8c9d4155f47e60ae7a39              605 stable/main/binary-amd64/Packages.gz
+ d87f486b8b4eb8e105e3eaf9981c4ae03eff0d11f5ffdfbf7696bbce7e3e317988bbb192b6cb0e5eef7cd09226ee73d1751fa6e197ffe167c43c9b468ad1af60              922 stable/main/binary-arm64/Packages
+ a09dcb12fdd498d8e5ad598bf721ced1cdef611b86a9f87d5ee4c22048de742eaf2428ac68d3284a076147277a9328f38be5c3a90c3553b296e5eebc0e29a908              602 stable/main/binary-arm64/Packages.gz
