@@ -7,11 +7,11 @@
 To add the repository execute the following commands in your terminal:
 
 ```bash
-curl -s --compressed "https://arikedb.github.io/Arikedb-Debian-Repository/debian/KEY.gpg" | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/arikedb.gpg > /dev/null
+curl -s --compressed "https://arikedb.github.io/Arikedb-Debian-Repository/KEY.gpg" | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/arikedb.gpg > /dev/null
 ```
 
 ```bash
-sudo curl -s --compressed -o /etc/apt/sources.list.d/arikedb.list "https://arikedb.github.io/Arikedb-Debian-Repository/debian/arikedb.list"
+sudo curl -s --compressed -o /etc/apt/sources.list.d/arikedb.list "https://arikedb.github.io/Arikedb-Debian-Repository/arikedb.list"
 ```
 
 ### Update packages list
