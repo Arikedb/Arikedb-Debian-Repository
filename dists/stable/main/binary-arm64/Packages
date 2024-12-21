@@ -4,10 +4,10 @@ Architecture: arm64
 Maintainer: Alejandro Alfonso <alejandroalfonso1994@gmail.com>
 Installed-Size: 8040
 Filename: pool/main/arikedb_1.1.5_arm64.deb
-Size: 2397736
-MD5sum: 3c234ba0d007fc46ea6eebffcbf98b1f
-SHA1: 424876345a82d6653f864dee06ffb09135596e5b
-SHA256: 7e11714aa360b352b1887868c84745526fc373cce9e0d985c447f187c361a084
+Size: 2397732
+MD5sum: b7dc161720445e4645bbaeb2bbf5ad40
+SHA1: 65ce2ccb17052ecd68e0313250d486dfb839843c
+SHA256: 97339adb059353a21a5f50df08fd4459c2c71a4bc6bae0527dcbf0eb972fd1ab
 Section: misc
 Priority: optional
 Homepage: https://arikedb.com
