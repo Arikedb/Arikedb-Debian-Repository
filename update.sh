@@ -3,7 +3,7 @@
 EMAIL="spt.arikedb@gmail"
 
 # Packages & Packages.gz
-dpkg-scanpackages --multiversion . > debian/Packages
+dpkg-scanpackages --multiversion . > Packages
 gzip -k -f Packages
 
 # Release, Release.gpg & InRelease
