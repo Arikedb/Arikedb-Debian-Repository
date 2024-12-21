@@ -1,0 +1,19 @@
+Package: arikedb
+Version: 1.1.5
+Architecture: amd64
+Maintainer: Alejandro Alfonso <alejandroalfonso1994@gmail.com>
+Installed-Size: 9348
+Filename: debian/pool/main/arikedb_1.1.5_amd64.deb
+Size: 2655122
+MD5sum: ca3db967a2d05b3cef1a48a00d984b26
+SHA1: 68833f17046e069b3372e15c2a5f191e1205587d
+SHA256: a9d0e8e2121f90fef2a56efa28417b2cc34fe5f1e50194e0416a5d5fdc32ad96
+Section: misc
+Priority: optional
+Homepage: https://arikedb.com
+Description: ArikeDB is a real-time database intended to be simple of use and fast
+  runtime for high data availability and performance. The server is written completely in rust
+  language, taking advantage of its robustness, efficiency and high performance. The current version of
+  ArikeDB available for installation is still a beta, it is stable and all the features are tested,
+  but we don't recommend using it in a production environment yet until the first official version gets released.
+

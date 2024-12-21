@@ -1,1 +1,3 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/arikedb.gpg] https://arikedb.github.io/Arikedb-Debian-Repository debian/
+deb [signed-by=/etc/apt/trusted.gpg.d/arikedb.gpg] https://arikedb.github.io/Arikedb-Debian-Repository/debian ./
+deb [arch=amd64 trusted=yes] https://<your-username>.github.io/<repository-name>/ stable main
+deb [arch=arm64 trusted=yes] https://<your-username>.github.io/<repository-name>/ stable main
