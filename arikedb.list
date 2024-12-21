@@ -1,1 +1,1 @@
-deb [arch=SYS_ARCH signed-by=/etc/apt/trusted.gpg.d/arikedb.gpg] https://arikedb.github.io/Arikedb-Debian-Repository/debian stable main
+deb [arch=SYS_ARCH signed-by=/etc/apt/trusted.gpg.d/arikedb.gpg] https://arikedb.github.io/Arikedb-Debian-Repository stable main

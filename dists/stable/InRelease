@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 21 Dec 2024 05:51:58 +0000
+Description: Arikedb Debian Repository for Debian packages.
+Label: Arikedb Debian Repository
+Origin: Arikedb
+Suite: stable
+MD5Sum:
+ a12e4f7ce472014e782f2462c09b5d2b              222 Release
+ 1d173ecbf19ff9d452f9a1ead8cfa54a              915 main/binary-amd64/Packages
+ 42e2dd5dfbf236533561528e7fbddab2              600 main/binary-amd64/Packages.gz
+ b587db881c715d478eccc7fe99252b29              915 main/binary-arm64/Packages
+ abe1c247874c135d9ff45786f4d68730              598 main/binary-arm64/Packages.gz
+SHA1:
+ 59259227715189dfef2c5d90180cd80e8fd78524              222 Release
+ fddf6684ccf35e8bd35f8af25eef84aac862894d              915 main/binary-amd64/Packages
+ 4f67bc639245587147dfb056099e4b2fdd3ad049              600 main/binary-amd64/Packages.gz
+ 9a38447e8e88b722d591d0d577dba10b01627040              915 main/binary-arm64/Packages
+ 791512e86eb34b733764baeeab8537bcc6562bd8              598 main/binary-arm64/Packages.gz
+SHA256:
+ 4fec5236dac9276f853054e97a35892f463ba3f34a405d796bbb2ef13cbc0af8              222 Release
+ d311411e0b88c369ead2e5cab3e703171e748179e208d0225c52a0d571995578              915 main/binary-amd64/Packages
+ c83c58fad555294acb4c3c2a03fbe728d255532c49af44bf20bd165c48886359              600 main/binary-amd64/Packages.gz
+ 7550191306c0a06f4f23a9ab8a396aecd01f5042ef99fae9ca93a56c6bf08842              915 main/binary-arm64/Packages
+ 591ddeb412735adc0f99dd57bb4acc5f875b22a303e66a5dff92b27db442057a              598 main/binary-arm64/Packages.gz
+SHA512:
+ 45d99d421f474842421a4188f6e3f64efbc3486a3e33d6ab50eba8d6c30d9c6d57f42e145e64bcd64df7ec2ebe01b6e2b4b4731d839a523b7a74e798bcf6e0d8              222 Release
+ df4c4c2e5bb9a5fce61452099aadfe530b86cb05e9817a8f977ebe9199e82c90c5cf42b325433e781deeaec3279bbb8fd67d05abf0670cc4fd3f4419478f1589              915 main/binary-amd64/Packages
+ b5739e3db8f9206e825c48cf1961fb0faa565d5c4c69bc148038ebcd14c46b4606cb6a988d649b5a202a4b6605a8904b65404a94cd8b87fcc04cbd9a17f466e3              600 main/binary-amd64/Packages.gz
+ fc2cc4206d97902eae74fec75a0484c68649af2eb4d16337358e9cadc56bfa9de505d0ce6fdc579117843355832c8bec2b919f6be839e849538ab400a24d1c28              915 main/binary-arm64/Packages
+ d5dc21a60faee26c594624fa57ca0472622016f291c000e09c0b51ac3664847315d1f85657caead39890839605408e6b74b88d32fb60371b7bcb4eb986e83fbe              598 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEEfMQXg6bdkUc/HN2UuMn3Eak5xeQFAmdmV4MWHHNwdC5hcmlr
+ZWRiQGdtYWlsLmNvbQAKCRC4yfcRqTnF5GUoD/0cXPQiuNIsPJTOTtSWKR4rhITy
+ZkaFPyfFv3/zd9+OSwhz7W4Q+6f5ufpes2U+juBpk4bkQ1W0lnuaFNlFqW8tOfmG
+lL3+mRh5v3iKo2ILZCI3cAAr95jI8oyGtUpqY/kdZTHOKflD796G+Gq39fm4yffU
+fM5Jw7dZ8zhvxSgxhrnQQRfuSUodXJco0ssZCS+cggBlcnzdGgshCSb+JcluF2mR
+UyyVNqd9E3n18p2sEeS0ssr4WOrJX1Ed+8dXrp7ZGtt/SK7Odj0E/ErhbtT1ZdlX
+XOrDTaNQ3jeOP51xHjJUf7fBLT7QH41H1HwiONvl6Ujktr/F1gXXBI8uuMZCV7Qa
+6CNFGncbq3nBqN+nkTeuDZg4bYCCG5apoOIdzZC+2uIg6heQsJo9XX9Bn0Qaa1R4
+L3Y0+n8QBiU7/XOxvUNyIF24k417UM/jJpwCj9aaJMLFuvRQWGIiByBj+LmPK5r7
+1LL2yRNlzRuuCTHqX1bw3+C9A6XFyKKjdQYHK5AsbhNQGj61Lq8xg017CyUK8ttZ
+59OfD+VnKLEhFwvmZXpTay8d4vGyFzBI6zm6qo+PO3fLOZEPVp5tp+1t2W5/cnSB
+NXDtiBLm27Aqa5BqjjfDI9WJh4JRPTrX+c2mE+bsXOU0rtkQUwf/Pxo4V/QUL4Iu
+mcUkyRvOlALyAAhFYw==
+=5VXy
+-----END PGP SIGNATURE-----

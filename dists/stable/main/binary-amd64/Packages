@@ -1,13 +1,13 @@
 Package: arikedb
 Version: 1.1.5
-Architecture: arm64
+Architecture: amd64
 Maintainer: Alejandro Alfonso <alejandroalfonso1994@gmail.com>
-Installed-Size: 8040
-Filename: debian/pool/main/arikedb_1.1.5_arm64.deb
-Size: 2397748
-MD5sum: 9acbb4bfc561a09abec0ac56b524546a
-SHA1: bc64dd941a368e08a31ebe671b26ba558d6372a1
-SHA256: 325affc3ea3ffffda0ede55ad22ce6a177038b10dca1b8f4e16828cddbed4403
+Installed-Size: 9348
+Filename: pool/main/arikedb_1.1.5_amd64.deb
+Size: 2655122
+MD5sum: ca3db967a2d05b3cef1a48a00d984b26
+SHA1: 68833f17046e069b3372e15c2a5f191e1205587d
+SHA256: a9d0e8e2121f90fef2a56efa28417b2cc34fe5f1e50194e0416a5d5fdc32ad96
 Section: misc
 Priority: optional
 Homepage: https://arikedb.com
