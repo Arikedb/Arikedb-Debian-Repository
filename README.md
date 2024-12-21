@@ -11,7 +11,7 @@ curl -s --compressed "https://arikedb.github.io/Arikedb-Debian-Repository/KEY.gp
 ```
 
 ```bash
-ARCH=$(dpkg --print-architecture) curl -s https://arikedb.github.io/Arikedb-Debian-Repository/arikedb.list | sed "s/SYS_ARCH/$ARCH/" | sudo tee /etc/apt/sources.list.d/arikedb.list
+sudo curl -s -o /etc/apt/sources.list.d/arikedb.list "https://arikedb.github.io/Arikedb-Debian-Repository/arikedb.list" && sudo sed -i "s/SYS_ARCH/$(dpkg --print-architecture)/g" /etc/apt/sources.list.d/arikedb.list
 ```
 
 ### Update packages list
